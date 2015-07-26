@@ -1,0 +1,10 @@
+.jumbotron * {
+  margin: 0 auto 30px;
+  text-align: center;
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 730px;
+  }
+}
