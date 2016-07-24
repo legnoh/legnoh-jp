@@ -1,0 +1,8 @@
+applications:
+- name: legnoh.jp
+  instances: 1
+  memory: 32M
+  disk_quota: 160M
+  no-hostname: true
+  domain: legnoh.jp
+  buildpack: staticfile_buildpack
